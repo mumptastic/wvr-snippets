@@ -3,6 +3,15 @@
     "displayName": "wvr-snippets",
     "description": "Snippets for Weaver and TL Components",
     "version": "0.0.1",
+    "publisher": "Michael Nichols",
+    "bugs": {
+        "url": "https://github.com/mumptastic/wvr-snippets/issues",
+        "email": "mnichols@library.tamu.edu"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mumptastic/wvr-snippets/"
+    },
     "engines": {
         "vscode": "^1.47.0"
     },
