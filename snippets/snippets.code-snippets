@@ -18,7 +18,27 @@
             "\tbottom-nav-background=\"${5}\"",
             "\tdisplay-bottom-nav=\"${6|true,false|}\">",
             "</wvr-header>"],
-        "description": "The default `wvr-header` component with customizations. "
+        "description": "The default `wvr-header` component with customizations."
+    },
+    "TL Header Default" :{
+        "prefix": "!tl-header",
+        "body": [
+            "<tl-header page-title=\"${1}\">",
+            "\t<wvr-nav-li href=\"https://library.tamu.edu/services/\">",
+            "\t\t<wvr-text value=\"Services\"></wvr-text>",
+            "\t</wvr-nav-li>",
+            "\t<wvr-nav-li href=\"https://library.tamu.edu/research/\">",
+            "\t\t<wvr-text value=\"Research\"></wvr-text>",
+            "\t</wvr-nav-li>",
+            "\t<wvr-nav-li href=\"https://library.tamu.edu/studyspaces/\">",
+            "\t\t<wvr-text value=\"Study Spaces\"></wvr-text>",
+            "\t</wvr-nav-li>",
+            "\t<wvr-nav-li href=\"https://library.tamu.edu/borrowing/\">",
+            "\t\t<wvr-text value=\"Collections\"></wvr-text>",
+            "\t</wvr-nav-li>",
+            "</tl-header>"
+        ],
+        "description": "The default `tl-header` component."
     }
 }
 
