@@ -1,1 +1,15 @@
-{}
+{
+    "WVR Header Default" :{
+        "prefix": "!wvr-header-d",
+        "body": ["<wvr-header></wvr-header>"],
+        "description": "The default `wvr-header` component with no customizations. "
+    },
+    "WVR Header Custom" :{
+        "prefix": "!wvr-header-c",
+        "body": ["<wvr-header |page-title=\"${1}\"|></wvr-header>"],
+        "description": "The default `wvr-header` component with customizations. "
+    }
+}
+
+
+
