@@ -13,9 +13,9 @@
             "\theader-title-url=\"${url}\"",
             "\tlogo-src=\"../assets/weaver-w.svg\"",
             "\tlogo-href=\"${url}\"",
-            "\ttop-nav-background=\"${3}\">",
-            "\ttitle-row-background=\"${4}\">",
-            "\tbottom-nav-background=\"${5}\">",
+            "\ttop-nav-background=\"${3}\"",
+            "\ttitle-row-background=\"${4}\"",
+            "\tbottom-nav-background=\"${5}\"",
             "\tdisplay-bottom-nav=\"${6|true,false|}\">",
             "</wvr-header>"],
         "description": "The default `wvr-header` component with customizations. "
