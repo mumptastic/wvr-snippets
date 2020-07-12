@@ -1,0 +1,20 @@
+{
+    "name": "wvr-snippets",
+    "displayName": "wvr-snippets",
+    "description": "Snippets for Weaver and TL Components",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "'php','javascript','html'",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
