@@ -1,0 +1,21 @@
+{
+    "WVR Button" :{
+        "prefix": "wvr-btn",
+        "body": [
+            "<wvr-button btn-class=\"${1|primary,secondary,success,danger,warning,info,light,dark,outline-primary,outline-secondary,outline-success,outline-danger,outline-warning,outline-info,outline-light,outline-dark|}\" btn-size=\"${2|small,large,block|}\">",
+            "\t<wvr-text value=\"${3}\"></wvr-text>",
+            "</wvr-button>"
+        ],
+        "description": "`wvr-button` component."
+    },
+    "WVR Button CUstom" :{
+        "prefix": "wvr-btn-c",
+        "body": [
+            "<wvr-button btn-class=\"${1|primary,secondary,success,danger,warning,info,light,dark,outline-primary,outline-secondary,outline-success,outline-danger,outline-warning,outline-info,outline-light,outline-dark|}\" btn-size=\"${2|small,large,block|}\" background=\"${3}\" border-color=\"${4}\" color=\"${5}\" text-decoration=\"${6|none,|}\" background-active=\"${7}\" border-active=\"${8}\" color-active=\"${9}\" text-decoration-active=\"${10}\" background-hover=\"${11}\" border-hover=\"${12}\" color-hover=\"${13}\" text-decoration-hover=\"${14}\" border-radius=\"${15}\" cursor=\"${16}\" font-family=\"${17}\" font-size=\"${18}\" line-height=\"${19}\" padding=\"${20}\" text-align=\"${21}\" vertical-align=\"${22}\">",
+            "\t<wvr-text value=\"${23}\"></wvr-text>",
+            "</wvr-button>"
+        ],
+        "description": "`wvr-button` fully customizable component."
+    },
+    
+}

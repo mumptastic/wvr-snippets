@@ -1,11 +1,11 @@
 {
     "WVR Header Default" :{
-        "prefix": "!wvr-header-d",
+        "prefix": "wvr-header-d",
         "body": ["<wvr-header></wvr-header>"],
         "description": "The default `wvr-header` component with no customizations. "
     },
     "WVR Header Custom" :{
-        "prefix": "!wvr-header-c",
+        "prefix": "wvr-header-c",
         "body": [
             "<wvr-header",
             "\tlogo-text=\"${1}\"",
@@ -21,7 +21,7 @@
         "description": "The default `wvr-header` component with customizations."
     },
     "TL Header Default" :{
-        "prefix": "!tl-header",
+        "prefix": "tl-header",
         "body": [
             "<tl-header page-title=\"${1}\">",
             "\t<wvr-nav-li href=\"https://library.tamu.edu/services/\">",
@@ -41,6 +41,3 @@
         "description": "The default `tl-header` component."
     }
 }
-
-
-

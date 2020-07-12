@@ -22,15 +22,27 @@
         "snippets": [
             {
                 "language": "html",
-                "path": "./snippets/snippets.code-snippets"
+                "path": "./snippets/header.code-snippets"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/button.code-snippets"
             },
             {
                 "language": "php",
-                "path": "./snippets/snippets.code-snippets"
+                "path": "./snippets/header.code-snippets"
+            },
+            {
+                "language": "php",
+                "path": "./snippets/button.code-snippets"
             },
             {
                 "language": "javascript",
-                "path": "./snippets/snippets.code-snippets"
+                "path": "./snippets/header.code-snippets"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/button.code-snippets"
             }
         ]
     }
