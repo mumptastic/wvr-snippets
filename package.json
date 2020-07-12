@@ -12,7 +12,15 @@
     "contributes": {
         "snippets": [
             {
-                "language": "'php','javascript','html'",
+                "language": "html",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "php",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "javascript",
                 "path": "./snippets/snippets.code-snippets"
             }
         ]
