@@ -26,7 +26,15 @@
             },
             {
                 "language": "html",
+                "path": "./snippets/footer.code-snippets"
+            },
+            {
+                "language": "html",
                 "path": "./snippets/button.code-snippets"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/starter.code-snippets"
             },
             {
                 "language": "php",
@@ -34,11 +42,23 @@
             },
             {
                 "language": "php",
+                "path": "./snippets/footer.code-snippets"
+            },
+            {
+                "language": "php",
                 "path": "./snippets/button.code-snippets"
+            },
+            {
+                "language": "php",
+                "path": "./snippets/starter.code-snippets"
             },
             {
                 "language": "javascript",
                 "path": "./snippets/header.code-snippets"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/footer.code-snippets"
             },
             {
                 "language": "javascript",

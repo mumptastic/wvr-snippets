@@ -2,8 +2,13 @@
 
 All notable changes to the "wvr-snippets" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
-
+## [1.0.0] - 2020-07-13
 - Initial release
+### Added
+- TL Header Component.
+- TL Footer Component.
+- TL Starter File (html/php).
+- WVR Header Component.
+- WVR Footer Component.
+- WVR Button Component.
