@@ -1,0 +1,19 @@
+{
+    "WVR Nav List":{
+        "prefix": "wvr-nav",
+        "body": [
+            "<wvr-nav-list vertical=\"${1|true,false|}\">",
+                "\t<wvr-nav-li href=\"${2}\">",
+                    "\t\t<wvr-text value=\"${3}\"></wvr-text>",
+                "\t</wvr-nav-li>",
+                "\t<wvr-nav-li href=\"${4}\">",
+                    "\t\t<wvr-text value=\"${5}\"></wvr-text>",
+                "\t</wvr-nav-li>",
+                "\t<wvr-nav-li href=\"${6}\">",
+                    "\t\t<wvr-text value=\"${7}\"></wvr-text>",
+                "\t</wvr-nav-li>",
+            "</wvr-nav-list>"
+        ],
+        "description": "The default `wvr-nav-list` component. "
+    }
+}

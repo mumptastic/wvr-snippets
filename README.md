@@ -5,6 +5,7 @@ This project is a helper to https://tamulib.github.io/weaver-components/<br/>
 | Command | Description |
 | --- | --- |
 | `tl-starter` | Default TAMU Library starter file with `bootstrap 4`, `tl-header`, `tl-footer`, and components cdn. |
+| `tl-cdn` | Default TAMU Library components cdn script. |
 
 ## Weaver Headers
 | Command | Description |
@@ -24,3 +25,9 @@ This project is a helper to https://tamulib.github.io/weaver-components/<br/>
 | --- | --- |
 | `wvr-btn`   | Default Weaver button component. |
 | `wvr-btn-c` | Custom Weaver button. |
+
+## Weaver Dropdowns
+| Command | Description |
+| --- | --- |
+| `wvr-dd-d`   | Default Weaver dropdown component. |
+| `wvr-dd-c` | Custom Weaver dropdown component. |
