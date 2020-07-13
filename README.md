@@ -14,6 +14,11 @@ This project is a helper to https://tamulib.github.io/weaver-components/<br/>
 | `wvr-header-c` | Custom Weaver header. |
 | `tl-header`    | Default TAMU Library header compoent. |
 
+## Weaver Nav List
+| Command | Description |
+| --- | --- |
+| `wvr-nav` | Default Weaver nav component. |
+
 ## Weaver Footer
 | Command | Description |
 | --- | --- |
