@@ -1,93 +1,113 @@
 {
-    "name": "wvr-snippets",
-    "displayName": "wvr-snippets",
-    "description": "Snippets for Weaver and TL Components",
-    "version": "0.0.1",
-    "publisher": "Michael Nichols",
-    "bugs": {
-        "url": "https://github.com/mumptastic/wvr-snippets/issues",
-        "email": "mnichols@library.tamu.edu"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/mumptastic/wvr-snippets/"
-    },
-    "engines": {
-        "vscode": "^1.47.0"
-    },
-    "categories": [
-        "Snippets"
-    ],
-    "contributes": {
-        "snippets": [
-            {
-                "language": "html",
-                "path": "./snippets/header.code-snippets"
-            },
-            {
-                "language": "html",
-                "path": "./snippets/footer.code-snippets"
-            },
-            {
-                "language": "html",
-                "path": "./snippets/button.code-snippets"
-            },
-            {
-                "language": "html",
-                "path": "./snippets/starter.code-snippets"
-            },
-            {
-                "language": "html",
-                "path": "./snippets/nav-list.code-snippets"
-            },
-            {
-                "language": "html",
-                "path": "./snippets/dropdown.code-snippets"
-            },
-            {
-                "language": "php",
-                "path": "./snippets/header.code-snippets"
-            },
-            {
-                "language": "php",
-                "path": "./snippets/footer.code-snippets"
-            },
-            {
-                "language": "php",
-                "path": "./snippets/button.code-snippets"
-            },
-            {
-                "language": "php",
-                "path": "./snippets/nav-list.code-snippets"
-            },
-            {
-                "language": "php",
-                "path": "./snippets/dropdown.code-snippets"
-            },
-            {
-                "language": "php",
-                "path": "./snippets/starter.code-snippets"
-            },
-            {
-                "language": "javascript",
-                "path": "./snippets/header.code-snippets"
-            },
-            {
-                "language": "javascript",
-                "path": "./snippets/footer.code-snippets"
-            },
-            {
-                "language": "javascript",
-                "path": "./snippets/button.code-snippets"
-            },
-            {
-                "language": "javascript",
-                "path": "./snippets/nav-list.code-snippets"
-            },
-            {
-                "language": "javascript",
-                "path": "./snippets/dropdown.code-snippets"
-            }
-        ]
-    }
+  "name": "wvr-snippets",
+  "displayName": "wvr-snippets",
+  "description": "Snippets for Weaver and TL Components",
+  "version": "1.0.1",
+  "publisher": "MichaelNichols",
+  "bugs": {
+    "url": "https://github.com/mumptastic/wvr-snippets/issues",
+    "email": "mnichols@library.tamu.edu"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mumptastic/wvr-snippets/"
+  },
+  "engines": {
+    "vscode": "^1.47.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "html",
+        "path": "./snippets/header.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/footer.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/button.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/starter.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/nav-list.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/dropdown.code-snippets"
+      },
+      {
+        "language": "php",
+        "path": "./snippets/header.code-snippets"
+      },
+      {
+        "language": "php",
+        "path": "./snippets/footer.code-snippets"
+      },
+      {
+        "language": "php",
+        "path": "./snippets/button.code-snippets"
+      },
+      {
+        "language": "php",
+        "path": "./snippets/nav-list.code-snippets"
+      },
+      {
+        "language": "php",
+        "path": "./snippets/dropdown.code-snippets"
+      },
+      {
+        "language": "php",
+        "path": "./snippets/starter.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/header.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/footer.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/button.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/nav-list.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/dropdown.code-snippets"
+      },
+      {
+        "language": "vue",
+        "path": "./snippets/header.code-snippets"
+      },
+      {
+        "language": "vue",
+        "path": "./snippets/footer.code-snippets"
+      },
+      {
+        "language": "veu",
+        "path": "./snippets/button.code-snippets"
+      },
+      {
+        "language": "veu",
+        "path": "./snippets/nav-list.code-snippets"
+      },
+      {
+        "language": "vue",
+        "path": "./snippets/dropdown.code-snippets"
+      }
+    ]
+  }
 }
