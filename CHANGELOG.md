@@ -2,10 +2,16 @@
 
 All notable changes to the "wvr-snippets" extension will be documented in this file.
 
+## [1.2.0] - 2020-07-23
+
+- Added Support for VueJS
 
 ## [1.0.0] - 2020-07-13
+
 - Initial release
+
 ### Added
+
 - TL Header Component.
 - TL Footer Component.
 - TL CDN Script Tag (html/php).
