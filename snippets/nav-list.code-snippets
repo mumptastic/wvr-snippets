@@ -1,19 +1,19 @@
 {
-    "WVR Nav List":{
-        "prefix": "wvr-nav",
+    "wvre Nav List":{
+        "prefix": "wvre-nav",
         "body": [
-            "<wvr-nav-list vertical=\"${1|true,false|}\">",
-                "\t<wvr-nav-li href=\"${2}\">",
-                    "\t\t<wvr-text value=\"${3}\"></wvr-text>",
-                "\t</wvr-nav-li>",
-                "\t<wvr-nav-li href=\"${4}\">",
-                    "\t\t<wvr-text value=\"${5}\"></wvr-text>",
-                "\t</wvr-nav-li>",
-                "\t<wvr-nav-li href=\"${6}\">",
-                    "\t\t<wvr-text value=\"${7}\"></wvr-text>",
-                "\t</wvr-nav-li>",
-            "</wvr-nav-list>"
+            "<wvre-nav-list vertical=\"${1|true,false|}\">",
+                "\t<wvre-nav-li href=\"${2}\">",
+                    "\t\t<wvre-text value=\"${3}\"></wvre-text>",
+                "\t</wvre-nav-li>",
+                "\t<wvre-nav-li href=\"${4}\">",
+                    "\t\t<wvre-text value=\"${5}\"></wvre-text>",
+                "\t</wvre-nav-li>",
+                "\t<wvre-nav-li href=\"${6}\">",
+                    "\t\t<wvre-text value=\"${7}\"></wvre-text>",
+                "\t</wvre-nav-li>",
+            "</wvre-nav-list>"
         ],
-        "description": "The default `wvr-nav-list` component. "
+        "description": "The default `wvre-nav-list` component. "
     }
 }

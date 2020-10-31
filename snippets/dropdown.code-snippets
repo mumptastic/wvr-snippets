@@ -1,30 +1,30 @@
 {
-    "WVR Dropdown" :{
-        "prefix": "wvr-dd-d",
+    "wvre Dropdown" :{
+        "prefix": "wvre-dd-d",
         "body": [
-            "<wvr-dropdown>",
-            "\t<wvr-dropdown-btn>",
-              "\t\t<wvr-text value=\"${1}\"></wvr-text>",
-            "\t</wvr-dropdown-btn>",
-            "\t<wvr-dropdown-menu>",
-              "\t\t<wvr-text value=\"${2}\"></wvr-text>",
-            "\t</wvr-dropdown-menu>",
-          "</wvr-dropdown>"
+            "<wvre-dropdown>",
+            "\t<wvre-dropdown-btn>",
+              "\t\t<wvre-text value=\"${1}\"></wvre-text>",
+            "\t</wvre-dropdown-btn>",
+            "\t<wvre-dropdown-menu>",
+              "\t\t<wvre-text value=\"${2}\"></wvre-text>",
+            "\t</wvre-dropdown-menu>",
+          "</wvre-dropdown>"
         ],
-        "description": "Default `wvr-dropdown` component."
+        "description": "Default `wvre-dropdown` component."
     },
-    "WVR Dropdown Custom" :{
-        "prefix": "wvr-dd-c",
+    "wvre Dropdown Custom" :{
+        "prefix": "wvre-dd-c",
         "body": [
-            "<wvr-dropdown btn-type=\"${1|primary,secondary,success,danger,warning,info,light,dark,link,plain|}\" toggle-on=\"${2|click,mouseover|}\">",
-            "\t<wvr-dropdown-btn>",
-              "\t\t<wvr-text value=\"${3}\"></wvr-text>",
-            "\t</wvr-dropdown-btn>",
-            "\t<wvr-dropdown-menu>",
-              "\t\t<wvr-text value=\"${4}\"></wvr-text>",
-            "\t</wvr-dropdown-menu>",
-          "</wvr-dropdown>"
+            "<wvre-dropdown btn-type=\"${1|primary,secondary,success,danger,warning,info,light,dark,link,plain|}\" toggle-on=\"${2|click,mouseover|}\">",
+            "\t<wvre-dropdown-btn>",
+              "\t\t<wvre-text value=\"${3}\"></wvre-text>",
+            "\t</wvre-dropdown-btn>",
+            "\t<wvre-dropdown-menu>",
+              "\t\t<wvre-text value=\"${4}\"></wvre-text>",
+            "\t</wvre-dropdown-menu>",
+          "</wvre-dropdown>"
         ],
-        "description": "Default `wvr-dropdown` component."
+        "description": "Default `wvre-dropdown` component."
     }
 }

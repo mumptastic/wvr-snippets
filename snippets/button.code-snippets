@@ -1,17 +1,17 @@
 {
-    "WVR Button" :{
-        "prefix": "wvr-btn",
+    "wvre Button" :{
+        "prefix": "wvre-btn",
         "body": [
-            "<wvr-button btn-class=\"${1|primary,secondary,success,danger,warning,info,light,dark,outline-primary,outline-secondary,outline-success,outline-danger,outline-warning,outline-info,outline-light,outline-dark|}\" btn-size=\"${2|small,large,block|}\">",
-            "\t<wvr-text value=\"${3}\"></wvr-text>",
-            "</wvr-button>"
+            "<wvre-button btn-class=\"${1|primary,secondary,success,danger,warning,info,light,dark,outline-primary,outline-secondary,outline-success,outline-danger,outline-warning,outline-info,outline-light,outline-dark|}\" btn-size=\"${2|small,large,block|}\">",
+            "\t<wvre-text value=\"${3}\"></wvre-text>",
+            "</wvre-button>"
         ],
-        "description": "`wvr-button` component."
+        "description": "`wvre-button` component."
     },
-    "WVR Button CUstom" :{
-        "prefix": "wvr-btn-c",
+    "wvre Button CUstom" :{
+        "prefix": "wvre-btn-c",
         "body": [
-            "<wvr-button",
+            "<wvre-button",
             "\tbtn-class=\"${1|primary,secondary,success,danger,warning,info,light,dark,outline-primary,outline-secondary,outline-success,outline-danger,outline-warning,outline-info,outline-light,outline-dark|}\"",
             "\tbtn-size=\"${2|small,large,block|}\"",
             "\tbackground=\"${3}\"",
@@ -35,10 +35,10 @@
             "\ttext-align=\"${21}\"",
             "\tvertical-align=\"${22}\"",
             ">",
-            "\t<wvr-text value=\"${23}\"></wvr-text>",
-            "</wvr-button>"
+            "\t<wvre-text value=\"${23}\"></wvre-text>",
+            "</wvre-button>"
         ],
-        "description": "`wvr-button` fully customizable component."
+        "description": "`wvre-button` fully customizable component."
     },
     
 }
